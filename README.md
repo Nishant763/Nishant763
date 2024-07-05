@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant763" alt="nishant763" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
 
-- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **DSA,SqlServer,C++**
+- 🌱 I’m currently learning **React,HLD**
+
+- 💬 Ask me about **DSA,SqlServer,Java**
 
 - 📫 How to reach me **bhatianishant763@gmail.com**
 
